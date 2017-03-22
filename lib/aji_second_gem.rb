@@ -1,7 +1,7 @@
 require "aji_second_gem/version"
 
 module AjiSecondGem
-  class gem
+  class Gem
   	def hi
   		puts "hiiiii..."
   	end
